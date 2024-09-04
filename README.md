@@ -3,14 +3,9 @@
 
 En el siguiente repositorio encontraras el contenido mas esencial para trabajar con Bootstrap 5, puedes clonarlo y observar como se comparta cada una de las clases y sacarle mucho provecho para tus siguientes proyectos!!
     
-<<<<<<< HEAD
- 
- 
-=======
    ![b5-new-logo](https://github.com/user-attachments/assets/aeac61d0-cb34-401d-bcab-47125ab78db1)
 
 
->>>>>>> f15f06fc81bf8fbdbe00f4b0dd3b375aa2373f01
 ## Colores y Tipografía
 
  - **Colores:**
