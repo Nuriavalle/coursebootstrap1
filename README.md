@@ -1,7 +1,7 @@
 # coursebootstrap1
-<h1 align="center"># Que encontraras en el siguiente repositorio?</h1>
+<h1 align="center">Que encontraras en el siguiente repositorio?</h1>
 
-En el siguiente repositorio encontraras el contenido mas esencial para trabajar con Bootstrap 5, puedes clonarlo y observar como se comparta cada una de las clases y sacarle mucho provecho para tus siguientes proyectos!!
+<p align="center">En el siguiente repositorio encontraras el contenido mas esencial para trabajar con Bootstrap 5, puedes clonarlo y observar como se comparta cada una de las clases y sacarle mucho provecho para tus siguientes proyectos!!</p>
     
    ![b5-new-logo](https://github.com/user-attachments/assets/aeac61d0-cb34-401d-bcab-47125ab78db1)
 
