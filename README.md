@@ -109,3 +109,10 @@ Bootstrap incluye un sistema tipográfico con clases para modificar la fuente, e
 
 *https://getbootstrap.com/docs/5.0/components/dropdowns/*
 
+## Responsive bootstrap
+
+El sistema responsive de Bootstrap se basa en un diseño de cuadrícula (grid) flexible que permite crear interfaces que se ajustan automáticamente a diferentes tamaños de pantalla. Utiliza contenedores, filas y columnas, con clases predefinidas basadas en los puntos de corte (breakpoints) para distintos dispositivos (como xs, sm, md, lg, xl, y xxl). Estas clases permiten ocultar, mostrar o reorganizar elementos en función del tamaño de la pantalla, proporcionando una experiencia de usuario adaptable en móviles, tabletas y computadoras.
+
+
+
+
