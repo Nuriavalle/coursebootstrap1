@@ -1,0 +1,29 @@
+.cambiar-color {
+    background-color: blue;
+    /* Color por defecto */
+}
+
+@media (min-width: 576px) {
+    .cambiar-color {
+        background-color: green;
+    }
+}
+
+@media (min-width: 768px) {
+    .cambiar-color {
+        background-color: red;
+    }
+}
+
+@media (min-width: 992px) {
+    .cambiar-color {
+        background-color: orange;
+    }
+}
+
+@media (min-width: 1200px) {
+    .cambiar-color {
+        background-color: #add8e6;
+        /* background-color: lightblue; */
+    }
+}
